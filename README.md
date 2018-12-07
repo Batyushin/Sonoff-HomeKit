@@ -2,8 +2,7 @@
 
 Эта прошивка делает Sonoff Basic совместимым с Apple Homekit!
 
-<img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/sonoffonly.png" alt="Sonoff" width="180"/>
-<img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/homekit.png" alt="Works with Apple Homekit" width="180"/>
+<img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/sonoffonly.png" alt="Sonoff" width="180"/><img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/homekit.png" alt="Works with Apple Homekit" width="180"/>
 
 ### Homekit работает на Sonoff! 😳
 
