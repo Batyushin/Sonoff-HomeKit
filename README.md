@@ -37,7 +37,7 @@ Apple предоставила спецификации разработчика
 
 ## Если Вам понравился этот проект:
 
-Номер кошелька: 410011714800830
+Номер кошелька: <b>410011714800830</b>
 <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/donate.jpg" alt="Sonoff" width="180"/>
 
 
