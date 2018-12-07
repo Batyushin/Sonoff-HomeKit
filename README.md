@@ -35,9 +35,9 @@ MagicHome led strip controller
  2) Соедините Sonoff с последовательным адаптером по 3.3v
  3) Запустить `firmware/ESP8266Flasher.exe`
  4) Выбрать все как на скриншоте
- <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/3000x_image.png" width="400"/>
+ <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/config.png" width="400"/>
  <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/advanc.png" width="400"/>
-
+ <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/operation.png" width="400"/>
 
 
 
