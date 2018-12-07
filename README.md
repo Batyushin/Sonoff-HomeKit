@@ -14,7 +14,9 @@ Apple предоставила спецификации разработчика
 Теперь вы, наконец, можете иметь устройства HomeKit, не тратя много денег!
 
 ### Совместимые устройства
-Это программное обеспечение в настоящее время протестировано на: <b>Sonoff Basic</b>
+Это программное обеспечение в настоящее время протестировано на:<br>
+<b>Sonoff Basic</b><br>
+<b>MagicHome led strip controller</b>
 
 ### Сейчас работаем над:
 
@@ -25,7 +27,7 @@ Sonoff touch<br>
 Sonoff Basic + TH Sensor<br>
 ESP01 Switch<br>
 ESP8266 Switch (1ch, 2ch, ... )<br>
-MagicHome led strip controller
+
 
 
 ## Инструкция
