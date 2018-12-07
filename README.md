@@ -24,7 +24,8 @@ Sonoff 4ch<br>
 Sonoff touch<br>
 Sonoff Basic + TH Sensor<br>
 ESP01 Switch<br>
-ESP8266 Switch (1ch, 2ch, ... )
+ESP8266 Switch (1ch, 2ch, ... )<br>
+MagicHome led strip controller
 
 
 ## Инструкция
@@ -58,7 +59,7 @@ ESP8266 Switch (1ch, 2ch, ... )
 
 В примечании к переводу <b>укажите свой e-mail</b>, и я обязательно свяжусь с Вами. <br>
 Также, можете написать "<b>Тест</b>", если хотите протестировать прошивку на этих устройствах:<br>
-Sonoff Dual, Sonoff 3ch, Sonoff 4ch, Sonoff touch, Sonoff Basic + TH Sensor, ESP01 Switch, ESP8266 Switch (1ch, 2ch, ... )
+Sonoff Dual, Sonoff 3ch, Sonoff 4ch, Sonoff touch, Sonoff Basic + TH Sensor, ESP01 Switch, ESP8266 Switch (1ch, 2ch, ... ), MagicHome led strip controller
 
 
 ---
