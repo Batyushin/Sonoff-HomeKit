@@ -37,7 +37,7 @@ Apple предоставила спецификации разработчика
 
 ## Если вам нравится этот проект:
 
-<img src="" alt="Sonoff" width="180"/>
+<img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/donate.jpg" alt="Sonoff" width="180"/>
 
 <iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=buyer&targets=&targets-hint=%D0%9D%D0%B0%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%3A%20%D0%BD%D0%B0%20%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0&default-sum=&button-text=11&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=&quickpay=shop&account=410011714800830" width="423" height="227" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
