@@ -51,8 +51,9 @@ ESP8266 Switch (1ch, 2ch, ... )
 Номер кошелька Яндекс Деньги <b>410011714800830</b>
 <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/donate.jpg" alt="Sonoff" width="180"/>
 
-В примечании к переводу укажите свой e-mail, я обязательно свяжусь с Вами.
-
+В примечании к переводу укажите свой e-mail, я обязательно свяжусь с Вами. <br>
+Также можете написать "Тест" если хотите протестировать прошивку на этих устройствах:<br>
+Switch Basic, Switch Dual, Switch 3ch, Switch 4ch, Switch Basic + TH Sensor, ESP01 Switch, ESP8266 Switch (1ch, 2ch, ... )
 
 
 ---
