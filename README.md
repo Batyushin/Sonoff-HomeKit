@@ -14,16 +14,16 @@ Apple предоставила спецификации разработчика
 Теперь вы, наконец, можете иметь устройства HomeKit, не тратя много денег!
 
 ### Совместимые устройства
-Это программное обеспечение в настоящее время протестировано на: Sonoff Basic
+Это программное обеспечение в настоящее время протестировано на: <b>Sonoff Basic</b>
 
-<b>Сейчас работаем над</b>
+<b>Сейчас работаем над:</b>
 
-Switch Basic
-Switch Dual
-Switch 3ch
-Switch 4ch
-Switch Basic + TH Sensor
-ESP01 Switch
+Switch Basic<br>
+Switch Dual<br>
+Switch 3ch<br>
+Switch 4ch<br>
+Switch Basic + TH Sensor<br>
+ESP01 Switch<br>
 ESP8266 Switch (1ch, 2ch, ... )
 
 
