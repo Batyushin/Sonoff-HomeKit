@@ -33,6 +33,10 @@ ESP8266 Switch (1ch, 2ch, ... )
  1) Отключите ваш sonoff от линии электропитания
  2) Соедините Sonoff с последовательным адаптером по 3.3v
  3) Запустить `firmware/ESP8266Flasher.exe`
+ 4) Выбрать все как на скриншоте
+ <img src=" https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/3000x_image.png" width="1000"/>
+
+
 
 ### Добавляем Sonoff в приложение Дом
  1) Открываем настройки -> Wi-Fi на Вашем iPhone или iPad  
