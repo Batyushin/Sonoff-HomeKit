@@ -57,7 +57,7 @@ ESP8266 Switch (1ch, 2ch, ... )
 <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/donate.jpg" alt="Sonoff" width="180"/>
 
 В примечании к переводу <b>укажите свой e-mail</b>, и я обязательно свяжусь с Вами. <br>
-Также, можете написать <b>"Тест"</b>, если хотите протестировать прошивку на этих устройствах:<br>
+Также, можете написать "<b>Тест</b>", если хотите протестировать прошивку на этих устройствах:<br>
 Sonoff Dual, Sonoff 3ch, Sonoff 4ch, Sonoff touch, Sonoff Basic + TH Sensor, ESP01 Switch, ESP8266 Switch (1ch, 2ch, ... )
 
 
@@ -66,7 +66,7 @@ Sonoff Dual, Sonoff 3ch, Sonoff 4ch, Sonoff touch, Sonoff Basic + TH Sensor, ESP
 #### Особая благодарность:
 @maximkulkin
 
-This project would not have existed without:<br>
+Этот проект не существовал бы без:<br>
 https://github.com/maximkulkin/esp-homekit<br>
 https://github.com/maximkulkin/esp-homekit-demo<br>
 https://github.com/maximkulkin/esp-wifi-config
