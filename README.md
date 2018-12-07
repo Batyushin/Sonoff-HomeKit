@@ -18,10 +18,10 @@ Apple предоставила спецификации разработчика
 
 ### Сейчас работаем над:
 
-Switch Basic<br>
-Switch Dual<br>
-Switch 3ch<br>
-Switch 4ch<br>
+Sonoff Dual<br>
+Sonoff 3ch<br>
+Sonoff 4ch<br>
+Sonoff touch<br>
 Switch Basic + TH Sensor<br>
 ESP01 Switch<br>
 ESP8266 Switch (1ch, 2ch, ... )
@@ -53,7 +53,7 @@ ESP8266 Switch (1ch, 2ch, ... )
 
 В примечании к переводу укажите свой e-mail, и я обязательно свяжусь с Вами. <br>
 Также, можете написать "Тест", если хотите протестировать прошивку на этих устройствах:<br>
-Switch Basic, Switch Dual, Switch 3ch, Switch 4ch, Switch Basic + TH Sensor, ESP01 Switch, ESP8266 Switch (1ch, 2ch, ... )
+Sonoff Dual, Sonoff 3ch, Sonoff 4ch, Sonoff touch, Sonoff Basic + TH Sensor, ESP01 Switch, ESP8266 Switch (1ch, 2ch, ... )
 
 
 ---
