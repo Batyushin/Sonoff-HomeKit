@@ -34,7 +34,7 @@ ESP8266 Switch (1ch, 2ch, ... )
  2) Соедините Sonoff с последовательным адаптером по 3.3v
  3) Запустить `firmware/ESP8266Flasher.exe`
  4) Выбрать все как на скриншоте
- <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/3000x_image.png" width="1000"/>
+ <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/3000x_image.png" width="500"/>
 
 
 
