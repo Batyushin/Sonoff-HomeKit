@@ -22,7 +22,7 @@ Sonoff Dual<br>
 Sonoff 3ch<br>
 Sonoff 4ch<br>
 Sonoff touch<br>
-Switch Basic + TH Sensor<br>
+Sonoff Basic + TH Sensor<br>
 ESP01 Switch<br>
 ESP8266 Switch (1ch, 2ch, ... )
 
