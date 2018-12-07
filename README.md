@@ -60,8 +60,8 @@ ESP8266 Switch (1ch, 2ch, ... )
 #### Особая благодарность:
 @maximkulkin
 
-This project would not have existed without:
-https://github.com/maximkulkin/esp-homekit
-https://github.com/maximkulkin/esp-homekit-demo
+This project would not have existed without:<br>
+https://github.com/maximkulkin/esp-homekit<br>
+https://github.com/maximkulkin/esp-homekit-demo<br>
 https://github.com/maximkulkin/esp-wifi-config
 
