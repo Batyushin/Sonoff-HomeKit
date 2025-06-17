@@ -57,7 +57,7 @@ ESP8266 Switch (1ch, 2ch, ... )<br>
 Готово! 🎉 
 
 ## Понравился проект? Поддержите нас!
-<p>Номер кошелька Яндекс Деньги: <a href="https://money.yandex.ru/to/410011714800830"><b>410011714800830</b></a></p>
+<p>По номеру телефона:<b>+7 989 619 84 42</b></p>
 <img src="https://github.com/Batyushin/Sonoff-HomeKit/blob/master/pic/donate.jpg" alt="Sonoff" width="180"/>
 
 * В примечании к переводу <b>укажите свой e-mail</b>, и я обязательно свяжусь с Вами.
